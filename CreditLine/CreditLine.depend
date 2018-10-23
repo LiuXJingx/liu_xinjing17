@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1540109290 source:g:\c++\creditline\main.cpp
+	<iostream>
+	"CreditLine.h"
+
+1540109266 g:\c++\creditline\include\creditline.h
+
+1540109594 source:g:\c++\creditline\src\creditline.cpp
+	"CreditLine.h"
+	<iostream>
+
+1540109290 source:d:\c++\creditline\main.cpp
+	<iostream>
+	"CreditLine.h"
+
+1540109266 d:\c++\creditline\include\creditline.h
+
+1540109594 source:d:\c++\creditline\src\creditline.cpp
+	"CreditLine.h"
+	<iostream>
+
